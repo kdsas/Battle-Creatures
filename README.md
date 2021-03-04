@@ -16,6 +16,8 @@ UDP networking,
 
 LAN and WAN networking,
 
-Game Security,and
+Game Security,
 
-Flat-file Databases
+Flat-file Databases, and
+
+Connectivity to Android hardware such as the Camera and Gyroscope
