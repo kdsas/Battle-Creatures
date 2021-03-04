@@ -18,6 +18,10 @@ LAN and WAN networking,
 
 Game Security,
 
-Flat-file Databases, and
+Flat-file Databases,
 
-Connectivity to Android hardware such as the Camera and Gyroscope
+Connectivity to Android hardware such as the Camera and Gyroscope, 
+
+Procedurally generated dungeons, and
+
+Pixel art creation
