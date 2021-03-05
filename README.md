@@ -22,6 +22,8 @@ Flat-file Databases,
 
 Connectivity to Android hardware such as the Camera and Gyroscope, 
 
-Procedurally generated dungeons, and
+Procedurally generated dungeons,
 
-Pixel art creation
+Pixel art creation, and 
+
+Master server setup
