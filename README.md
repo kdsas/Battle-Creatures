@@ -12,6 +12,8 @@ User-interface design principles from a usability perspective,
 
 TCP/IP networking, 
 
+Databases and PHP,
+
 UDP networking,
 
 LAN and WAN networking,
