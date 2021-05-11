@@ -1,6 +1,6 @@
 # Battle-Creatures
 Capstone Multiplayer Android Game built in Unity3D in C#.
-Link to zip file: https://drive.google.com/file/d/1lg_Bk780LaUSlLnJKBIyW5joN7YF_Y7P/view?usp=sharing
+Link to zip file: https://drive.google.com/file/d/1LrfPO77Y5P8E5xu42MSmxjM_RMG7pDRS/view?usp=sharing
 
 Battle Creatures is a multiplayer 2D top-down strategy game where in LAN mode, the player must destroy the opposing player’s entire AI army within ten minutes by shooting ammo. In LAN mode, the player can purchase a wisdom potion or gem from the in-game store to power up and the player can only level up if they don't lose any health points at all at their current level, there are 4 levels. In both Internet and LAN modes, if the player loses all of their health points, they have to restart the game. 
 
