@@ -1,8 +1,8 @@
 # Battle-Creatures
 Capstone Multiplayer Android Game built in Unity3D in C#.
-Link to zip file: https://drive.google.com/file/d/1eCYGiqgAU0nNLV1nvwRjW-gIkOTK5VHi/view?usp=sharing
+Link to zip file: https://drive.google.com/file/d/1-OGo-mhxglMc5T1vb__0usiNDx30gr9H/view?usp=sharing
 
-Battle Creatures is a multiplayer 2D top-down strategy game where in LAN mode, the player must destroy the opposing player’s entire AI army within ten minutes by shooting ammo. In LAN mode, the player can purchase a wisdom potion or gem from the in-game store to power up and the player can only level up if they don't lose any health points at all at their current level, there are 4 levels. In both Internet and LAN modes, if the player loses all of their health points, they have to restart the game. 
+Battle Creatures is a multiplayer 2D top-down strategy game where in HOST/JOIN mode, whether player one or player two, the game host must shoot first. Make sure firewall is turned off on your device before starting gameplay. If the player's health is over or equal to 50 during the 3-minute gameplay interval, they will level up. In both HOST/JOIN and ONLINE modes, if the player loses all of their health points, they have to restart the game. 
 
 What I Learned:Practical aspects of game development- project costs, development time, and revenue, 
 
@@ -14,8 +14,6 @@ TCP/IP networking,
 
 Databases and PHP,
 
-UDP networking,
-
 LAN and WAN networking,
 
 Game Security,
@@ -24,8 +22,8 @@ Flat-file Databases,
 
 Connectivity to Android hardware such as the Camera and Gyroscope, 
 
-Procedurally generated dungeons,
+Procedurally generated dungeons, 
 
-Pixel art creation, and 
+Unity's MLAPI networking solution, and
 
-Master server setup
+Pixel art creation
