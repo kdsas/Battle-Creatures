@@ -1,6 +1,6 @@
 # Battle-Creatures
 Capstone Multiplayer Android Game built in Unity3D in C#.
-Link to zip file: https://drive.google.com/file/d/1vY9eHvUsPqO59zcob14HMl-uf-tnnAh9/view?usp=sharing
+Link to zip file: https://drive.google.com/file/d/1XPWVo4iM-dEo9mMqddVpcV-S-ja8mKmw/view?usp=sharing
 
 Battle Creatures is a multiplayer 2D top-down strategy game where in HOST/JOIN mode, whether player one or player two, the game host must shoot first. Make sure firewall is turned off on your device before starting gameplay. If the player's health is equal to 90 after the 3-minute gameplay interval, they will win the game. In both HOST/JOIN and ONLINE modes, if the player loses all of their health points, they have to restart the game. 
 
